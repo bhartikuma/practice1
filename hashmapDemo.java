@@ -9,7 +9,9 @@ public class hashmapDemo {
 		map.put("java", 1);
 		map.put("java", 2);
 		System.out.println(map.get("java"));
+		// there is some changes i am doing for the testing purpose 
 
 	}
 
 }
+
